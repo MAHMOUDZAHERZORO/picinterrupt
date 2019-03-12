@@ -1,0 +1,7 @@
+[PROJECTS]
+Count=3
+Project0=..\..\KEYPAD SECURITY\password.mcppi
+Project1=..\pic_interrupt.mcppi
+Project2=..\pic_interrupt2.mcppi
+[ActiveProject]
+Index=2
